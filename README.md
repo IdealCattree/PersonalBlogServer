@@ -1,2 +1,1 @@
-# PersonalBlogServer
-个人空间服务端
+# vue_personal_blog

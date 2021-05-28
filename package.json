@@ -1,0 +1,33 @@
+{
+  "name": "vue_personal_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisLiu-home/vue_personal_blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisLiu-home/vue_personal_blog/issues"
+  },
+  "homepage": "https://github.com/krisLiu-home/vue_personal_blog#readme",
+  "devDependencies": {
+    "@types/node": "^14.11.2"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "connect-history-api-fallback": "^1.6.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "path-to-regexp": "^6.2.0",
+    "sequelize": "^6.3.5"
+  }
+}
